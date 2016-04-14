@@ -1,0 +1,16 @@
+html{
+	background: #5c7989
+}
+
+body{
+	padding: 50px 0;
+	color: #555;
+	font-weight: 300;
+}
+
+.wrapper {
+	min-height: 400px;
+	width: 1024px;
+	margin:0 auto;
+	background: #dedede;
+}
